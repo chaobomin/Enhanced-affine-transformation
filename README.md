@@ -10,4 +10,4 @@ Image registration is a prerequisite for infrared (IR) and visible (VIS) image f
 
 Requirements: Matlab 2014
 
-Please all files and then run A0_image_r_main_released.m.
+Please download all files and then run A0_image_r_main_released.m.
